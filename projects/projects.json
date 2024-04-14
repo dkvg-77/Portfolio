@@ -1,6 +1,16 @@
 [ 
     {
         "id": 1,
+        "name": "VibeCast | Social Media app",
+        "desc": "Social media platform empowering users to share posts comprising text and images and seemlessly follow and unfollow others.",
+        "image": "../assests/images/extra/project/project4.png",
+        "links": {
+            "view": "https://github.com/dkvg-77/Vibecast",
+            "code": "https://github.com/dkvg-77/Vibecast"
+        }
+    },
+    {
+        "id": 2,
         "name": "Blog Website",
         "desc": "Designed and developed a blog website with user friendly features. Compose, publish, and edit your blogs.",
         "image": "../assests/images/extra/project/project1.png",
@@ -10,7 +20,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Real time live chat app",
         "desc": "Enter any room by entering your username and start chatting. Send and recieve messages.",
         "image": "../assests/images/extra/project/project2.png",
@@ -20,7 +30,29 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
+        "name": "Online food feedback predictor",
+        "desc": "Developed an app to predict the feedback provided by the online food delivery app users.",
+        "image": "../assests/images/extra/project/project5.png",
+        "links": {
+            "view": "https://github.com/dkvg-77/online-food-delivery-feedback-predictor",
+            "code": "https://github.com/dkvg-77/online-food-delivery-feedback-predictor"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Online shopping management",
+        "desc": "A full stack project where users can do shopping. If you are an admin you can remove and add products.",
+        "image": "../assests/images/extra/project/project6.png",
+        "links": {
+            "view": "https://github.com/vgdk77/online-shopping/",
+            "code": "https://github.com/vgdk77/online-shopping/"
+        }
+    }
+    
+    ,
+    {
+        "id": 6,
         "name": "Personal-productivity website.",
         "desc": "A website that I created for myself that can be used in my daily use. Todo-list, Weather-report and many more features.",
         "image": "../assests/images/extra/project/project3.png",
