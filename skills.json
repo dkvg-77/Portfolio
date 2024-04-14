@@ -54,5 +54,38 @@
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/ffffff/mysql.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "https://img.icons8.com/color/48/ffffff/nextjs.png"
+    },    
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/ffffff/typescript.png"
+    },
+    {
+        "name": "Prisma",
+        "icon": "https://img.icons8.com/color/48/ffffff/prisma-orm.png"
+    },
+    {
+        "name": "Postgres",
+        "icon": "https://img.icons8.com/?size=48&id=36440&format=png"
+    },
+    {
+        "name": "graphql",
+        "icon": "https://img.icons8.com/?size=48&id=lx6cJkVf1gg7&format=png"
+    },
+    {
+        "name": "Tailwind",
+        "icon": "https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"
+    },
+    {
+        "name": "Redis",
+        "icon": "https://img.icons8.com/?size=48&id=pHS3eRpynIRQ&format=png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=48&id=33039&format=png"
     }
+
 ]

@@ -144,8 +144,8 @@ srtop.reveal('.about .content .resumebtn',{delay: 300});
 
 
 /* SCROLL SKILLS */
-srtop.reveal('.skills .container',{interval: 200}); 
-srtop.reveal('.skills .container .bar',{delay: 400}); 
+// srtop.reveal('.skills .container',{interval: 200}); 
+// srtop.reveal('.skills .container .bar',{delay: 400}); 
 
 /* SCROLL EDUCATION */
 srtop.reveal('.education .box',{interval: 200}); 
